@@ -43,3 +43,7 @@ A list of my unfinished projects that I should work on. Please note: some of the
 **amp4mac**: Like my AMP script, but for macOS. What I still need to do: change apt-get to brew, and test it and make sure it works on my MacBook. List all dependencies. [Link](https://github.com/0x416c616e/amp4mac)
 
 **AutoAMP**: A visual tool for running different things that I have in my AMP script, such as installing software updates, running a virus scan, etc. What I still need to do: use some sort of subprocess-esque thing and create lambda expression event handlers for the buttons so that the buttons do stuff and also make it so that the output of the subprocess shell commands gets shown in the scrollable text area in the window. Maybe also dial back some of my overly ambitious features for it. Just make it simple. It's just a graphical way to do routine Linux tasks, by clicking buttons instead of running a shell script. [Link](https://github.com/0x416c616e/AutoAMP)
+
+**Projects tab on GitHub**: I haven't really updated my official projects in the projects tab on my GitHub profile. What I need to do: update it for my current projects. [Link](https://github.com/0x416c616e?tab=projects)
+
+**Releases**: instead of just commits, it's important to have software releases. I need to update releases for my finished projects. This is at the "releases" page for every repo.
