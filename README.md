@@ -47,3 +47,9 @@ A list of my unfinished projects that I should work on. Please note: some of the
 **Projects tab on GitHub**: I haven't really updated my official projects in the projects tab on my GitHub profile. What I need to do: update it for my current projects. [Link](https://github.com/0x416c616e?tab=projects)
 
 **Releases**: instead of just commits, it's important to have software releases. I need to update releases for my finished projects. This is at the "releases" page for every repo.
+
+**Data structures class stuff**: Notes and code from my class about data structures. Should remain private until my class is over. What I still need to do: finish the class and put notes here. Or maybe study ahead, before it's done. Lists, stacks, linked lists, doubly linked lists, queues, trees, graphs, heaps. [Link](https://github.com/0x416c616e/data_structures)
+
+**Discrete structures**: notes for discrete structures a.k.a. discrete mathematics. What I still need to do: put notes for the class. [Link](https://github.com/0x416c616e/discrete_structures)
+
+**Computer Organization**: Notes for a difficult class. What I still need to do: study ahead and put notes here. Keep class notes private until later. [Link](https://github.com/0x416c616e/computer_organization)
